@@ -1,6 +1,6 @@
-**NLP Project by**
-Feistenauer Jakob
-Nague Marcel
-Öztürk Mert
-Ströhle Justin
+**NLP Project by** <br/>
+Feistenauer Jakob <br/>
+Nague Marcel <br/>
+Öztürk Mert <br/>
+Ströhle Justin <br/>
 Tomasini Nico
